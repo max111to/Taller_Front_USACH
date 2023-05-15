@@ -1,0 +1,32 @@
+class* = layout__
+
+todos las clases que contengan un layout__
+
+
+grid-column: donde empieza / donde termina-1
+ej:
+grid-column: 1 / 3, empieza en 1 y termina en 2
+
+grid-row: 1 / 2
+
+span
+grid-column: donde empieza/ span donde termina
+ej:
+grid-colum 1 / span 3, empieza en 1 y termina en 3
+
+1fr dividir una fraccion
+
+Mobile First
+anchos minimos, de menos a mas
+Puntos de quiebre
+Media Query
+
+@media screen and (min-width: 768px) desde 768 pixeles incluyendolo
+@media screen and (max-width: 768px) hasta 768 pixeles incluyendolo
+
+Sass 
+
+nodejs.org
+
+npm install -g sas
+npm install -g npm@9.6.6

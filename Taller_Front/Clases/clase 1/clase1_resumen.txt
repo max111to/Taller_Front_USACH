@@ -1,0 +1,33 @@
+Funcionales: Se denomina como procesos que debe realizar el sistema
+
+No funcionales: Usualmente se denomina como lo estético
+
+Inspector de elementos: Se puede visualizar el codigo detras de la página
+
+Bootstrap framework de CSS para correcto funcionamiento en páginas web móviles
+
+Ejemplo 1)
+
+  Código en HTML
+  <p>Hola</p>
+    parrafo 1
+
+  Código en CSS
+  p {color: blue; font-family: Arial; }
+    p = selector
+    color propiedad y blue es valor
+    font-family propiedad y Arial es el valor
+   
+HTML
+
+
+
+CSS
+3 distintas maneras para asignar propiedades:
+  1) Selector
+    1.1) Div, parrafo, titulo, etc.
+  2) Clase 
+    2.1) Para llamar a una clase se un .nombre_clase
+  3) ID
+    3.1) Para llamar a un ID se usa un #nombre_ID
+  
